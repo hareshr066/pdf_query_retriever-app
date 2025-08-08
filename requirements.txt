@@ -6,6 +6,9 @@ pymongo
 python-dotenv
 fastapi
 uvicorn
+faiss-cpu
+
+
 
 
 
