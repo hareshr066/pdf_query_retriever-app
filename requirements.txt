@@ -4,5 +4,9 @@ sentence-transformers
 openai
 pymongo
 python-dotenv
+fastapi
+uvicorn
+
+
 
 
